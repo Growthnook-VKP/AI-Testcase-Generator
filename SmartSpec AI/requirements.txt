@@ -6,6 +6,7 @@ transformers
 scikit-learn
 numpy
 tqdm
-
+sentence-transformers 
+faiss-cpu
 
 
